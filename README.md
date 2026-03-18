@@ -36,9 +36,9 @@ Texte für Originale sind als Platzhalter gespeichert (AI-generiert, keine öffe
 - Plattformen: Spotify, Genius, Apple, Deezer, Linktree, Shop, IG, YT, Facebook (blockiert)
 
 ## Ordner-Struktur
-- `songs/` - songs_list.txt, releases.txt
-- `lyrics/` - Textdateien
-- `stats/` - stats.txt
+- `Lil_Keen_Research/songs/` - songs_list.txt, releases.txt
+- `Lil_Keen_Research/lyrics/` - Textdateien
+- `Lil_Keen_Research/stats/` - stats.txt
 
 Falls du mehr Infos hast, melde dich. Bleib sicher da draußen.
 

@@ -7,6 +7,7 @@
 - Behind Lil Keen: Jennifer A. K. (primary, VFX Compositing Artist), and Jasmin F. (VFX Compositing Artist).
 - Songs (training data) sung by Thomas D. from Peine.
 - Lil Keen - Wassereis in Blau is an AI Total Conversion of Rubi - Wassereis in Pink, but Rubi itself is a fully AI-generated influencer and was created illegally with Disney technology for the same purpose as all NWO influencers and musicians.
+- The authorities like BKA and Verfassungsschutz are too incompetent and have no interest in pursuing the greatest danger to democracy, because this state has a special hiring requirement: idiocy (do they know the film Idiocracy? They should watch it!).
 
 ## Sources
 - User-provided information (March 18, 2026).
